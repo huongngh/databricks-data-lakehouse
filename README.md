@@ -77,7 +77,7 @@ databricks-data-lakehouse/
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **ACID Transactions** — Delta Lake guarantees data consistency across all writes
 - **Time Travel** — Roll back to any previous version of a table for auditing or error recovery
